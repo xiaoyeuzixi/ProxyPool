@@ -109,7 +109,7 @@ proxypool    | 2020-02-19 17:09:46,596 INFO success: tester entered RUNNING stat
 
 ```shell script
 export PROXYPOOL_REDIS_HOST='localhost'
-export PROXYPOOL_REDIS_PORT=6379
+export PROXYPOOL_REDIS_PORT= 5679
 export PROXYPOOL_REDIS_PASSWORD=''
 export PROXYPOOL_REDIS_DB=0
 ```
